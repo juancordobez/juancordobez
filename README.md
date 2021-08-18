@@ -1,4 +1,4 @@
-## Hola 👋, soy [Juan Cordobez](https://github.com/juancordobez), Full Stack Developer.
+## Hola 👋, mi nombre es [Juan Cordobez](https://github.com/juancordobez). Soy Full Stack Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cordobez/)
 
@@ -11,7 +11,7 @@ Soy estudiante de ingenieria 🎓 en UTN 🏛. Actualmente me desempeño como De
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; Actualmente estoy trabajando con Nodejs, Express, TypeScript,  Firebase, React, Redux, y Sass.
+- 🛠 &nbsp; Actualmente estoy trabajando con Nodejs, Express, TypeScript, Firebase, React, Redux, y Sass.
 - 🚀 &nbsp; Sigo aprendiendo sobre desarrollo web.
 - 💻 &nbsp; Me gustaria en el futuro estudiar ciencias de datos y IA.
 - 👨🏻‍💻 &nbsp; La mayoría de mis proyectos están disponibles en [Github](https://github.com/juancordobez).
