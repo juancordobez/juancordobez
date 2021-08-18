@@ -7,7 +7,7 @@
 
 Soy estudiante de ingenieria 🎓 en UTN 🏛. Actualmente me desempeño como Desarrollador Web full Stack 🕸️. Soy un aprendiz apasionado, siempre estoy dispuesto a aprender y trabajar 💡. Me gusta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real ✨. Aparte de eso, también me encanta trabajar en quipo ayudar y aprender de mis compañeros 👨🏻‍💻.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/juancordobez/juancordobez/blob/main/images/coder.gif?raw=true" />
 
 ### Talking about Personal Stuffs:
 
