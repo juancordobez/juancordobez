@@ -29,19 +29,32 @@ Soy estudiante de ingenieria 🎓 en UTN 🏛. Actualmente me desempeño como De
 ### Languages and Tools:
 
 
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/tipescript.png?raw=true" alt="tipescript"></code>
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/javascript.png?raw=true" alt="javascript"></code>
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/react.png?raw=true" alt="react"></code>
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/html5.png?raw=true" alt="html5"></code>
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/redux.png?raw=true" alt="redux"></code>
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/css3.png?raw=true" alt="css3"></code>
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/sass.png?raw=true" alt="sass"></code>
+
+<br />
+
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/nodejs.png?raw=true" alt="nodejs"></code>
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/express-original.svg?raw=true" alt="expressjs"></code>
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/python.png?raw=true" alt="python"></code>
-<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/react.png?raw=true" alt="react"></code>
-<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/git-original.svg?raw=true" alt="git"></code>
-<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images//terminal.png?raw=true" alt="terminal"></code>
-<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/sass.png?raw=true" alt="sass"></code>
-<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/django.jpg?raw=true" alt="django"></code>
-<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/docker.png?raw=true" alt="docker"></code>
-<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/tipescript.png?raw=true" alt="tipescript"></code>
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/django.png?raw=true" alt="django"></code>
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/firebase.png?raw=true" alt="firebase"></code>
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/postgreSQL.png?raw=true" alt="postgreSQL"></code>
+
+<br />
+
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/git-original.svg?raw=true" alt="git"></code>
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/docker.png?raw=true" alt="docker"></code>
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images//terminal.png?raw=true" alt="terminal"></code>
+
+
+
+
 
 
 
