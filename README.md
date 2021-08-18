@@ -15,10 +15,10 @@ Soy estudiante de ingenieria 🎓 en UTN 🏛. Actualmente me desempeño como De
 - 🚀 &nbsp; Sigo aprendiendo sobre desarrollo web.
 - 💻 &nbsp; Me gustaria en el futuro estudiar ciencias de datos y IA.
 - 👨🏻‍💻 &nbsp; La mayoría de mis proyectos están disponibles en [Github](https://github.com/juancordobez).
-- 💬 &nbsp; ¡Pregúntame sobre cualquier cosa [aquí](https://www.linkedin.com/in/juan-cordobez/)!
+- 💬 &nbsp; ¡Pregúntame sobre cualquier cosa en mi [Linkedin](https://www.linkedin.com/in/juan-cordobez/)!
 <!-- - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript. -->
 - 📫 &nbsp; Contactame: juanmarcoscordobez@gmail.com.
-- 📝 &nbsp; Mira [currículum](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Mira mi [currículum](https://drive.google.com/file/d/1kX8y4ANNqVRmXbXfbH0ZhmE8BDADO58H/view?usp=sharing).
 
 <!-- ### My Absolute Favorites:
 
@@ -32,8 +32,8 @@ Soy estudiante de ingenieria 🎓 en UTN 🏛. Actualmente me desempeño como De
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/tipescript.png?raw=true" alt="tipescript"></code>
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/javascript.png?raw=true" alt="javascript"></code>
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/react.png?raw=true" alt="react"></code>
-<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/html5.png?raw=true" alt="html5"></code>
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/redux.png?raw=true" alt="redux"></code>
+<code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/html5.png?raw=true" alt="html5"></code>
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/css3.png?raw=true" alt="css3"></code>
 <code><img width="40" src="https://github.com/juancordobez/juancordobez/blob/main/images/sass.png?raw=true" alt="sass"></code>
 
