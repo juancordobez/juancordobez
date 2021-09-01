@@ -18,7 +18,7 @@ Soy estudiante de ingenieria 🎓 en UTN 🏛. Actualmente me desempeño como De
 - 💬 &nbsp; ¡Pregúntame sobre cualquier cosa en mi [Linkedin](https://www.linkedin.com/in/juan-cordobez/)!
 <!-- - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript. -->
 - 📫 &nbsp; Contactame: juanmarcoscordobez@gmail.com.
-- 📝 &nbsp; Mira mi [currículum](https://drive.google.com/file/d/1kX8y4ANNqVRmXbXfbH0ZhmE8BDADO58H/view?usp=sharing).
+- 📝 &nbsp; Mira mi [currículum](https://drive.google.com/file/d/1iou_Be1tl8HgYXqJLszWri99Zr6GEd5i/view?usp=sharing).
 
 <!-- ### My Absolute Favorites:
 
