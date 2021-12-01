@@ -11,9 +11,9 @@ Soy estudiante de ingenieria 🎓 en UTN 🏛. Actualmente me desempeño como De
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; Actualmente estoy trabajando con Nodejs, Express, TypeScript, Firebase, React, Redux, y Sass.
+- 🛠 &nbsp; Actualmente estoy trabajando con NodeJS, Express, ReactJS, Redux, MongoDB, ProstgreSQL, CSS y Sass.
 - 🚀 &nbsp; Sigo aprendiendo sobre desarrollo web.
-- 💻 &nbsp; Me gustaria en el futuro estudiar ciencias de datos y IA.
+- 💻 &nbsp; Estoy aprendiendo a desarrollar Apps sin servidor en AWS.
 - 👨🏻‍💻 &nbsp; La mayoría de mis proyectos están disponibles en [Github](https://github.com/juancordobez).
 - 💬 &nbsp; ¡Pregúntame sobre cualquier cosa en mi [Linkedin](https://www.linkedin.com/in/juan-cordobez/)!
 <!-- - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript. -->
